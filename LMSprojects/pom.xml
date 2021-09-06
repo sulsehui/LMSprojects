@@ -190,7 +190,7 @@
 			<version>2.10.0</version>
 		</dependency>
 		<dependency>
-			<groupId>com.sehui</groupId>
+			<groupId>com.jeseong</groupId>
 			<artifactId>ojdbc6</artifactId>
 			<version>11.0.2</version>
 		</dependency>
